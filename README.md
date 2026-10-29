@@ -11,7 +11,7 @@ runs unchanged, and Recharged supplies what the Wii hardware used to provide:
 graphics, sound, controllers, disc access and saves.
 
 <p align="center">
-  <img src="docs/images/launcher.png" width="840" alt="The Recharged launcher, with the disc checked and ready to play">
+  <img src="docs/images/launcher.png" width="840" alt="The Recharged launcher, with the disc checked and ready to play TEST">
 </p>
 
 > [!IMPORTANT]
